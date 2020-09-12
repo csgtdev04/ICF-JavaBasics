@@ -1,5 +1,3 @@
-package Day3;
-
 public class Booleans {
     public static void main(String[] args) {
         //Where we write our code!
