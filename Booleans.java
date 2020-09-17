@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Booleans {
     public static void main(String[] args) {
         //Where we write our code!
@@ -16,6 +18,9 @@ public class Booleans {
         //false and false = false
         //true and false = false
         //true and true = true
+
+
+
 
     }
 }
